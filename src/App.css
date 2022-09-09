@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 10px
+  }
+  .todo-item-container{
+    border: 0.02rem solid rgb(214, 203, 203);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
